@@ -1,0 +1,6 @@
+{
+  "name": "World Map & Geolocation",
+  "description": "An interactive world map using OpenStreetMap that shows your current location without any API costs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
